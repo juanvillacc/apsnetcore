@@ -1,0 +1,11 @@
+c:\users\jvilla\source\repos\crud\crud\bin\Debug\netcoreapp2.0\crud.deps.json
+c:\users\jvilla\source\repos\crud\crud\bin\Debug\netcoreapp2.0\crud.runtimeconfig.json
+c:\users\jvilla\source\repos\crud\crud\bin\Debug\netcoreapp2.0\crud.runtimeconfig.dev.json
+c:\users\jvilla\source\repos\crud\crud\bin\Debug\netcoreapp2.0\crud.dll
+c:\users\jvilla\source\repos\crud\crud\bin\Debug\netcoreapp2.0\crud.pdb
+c:\users\jvilla\source\repos\crud\crud\obj\Debug\netcoreapp2.0\crud.csprojAssemblyReference.cache
+c:\users\jvilla\source\repos\crud\crud\obj\Debug\netcoreapp2.0\crud.csproj.CoreCompileInputs.cache
+c:\users\jvilla\source\repos\crud\crud\obj\Debug\netcoreapp2.0\crud.AssemblyInfoInputs.cache
+c:\users\jvilla\source\repos\crud\crud\obj\Debug\netcoreapp2.0\crud.AssemblyInfo.cs
+c:\users\jvilla\source\repos\crud\crud\obj\Debug\netcoreapp2.0\crud.dll
+c:\users\jvilla\source\repos\crud\crud\obj\Debug\netcoreapp2.0\crud.pdb
